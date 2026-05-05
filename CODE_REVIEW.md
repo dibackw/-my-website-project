@@ -16,4 +16,6 @@
 ## Что исправлено
 - Замечаний нет
 
+# Главная страница с обновленным приветствием
+
 <img width="1909" height="917" alt="изображение" src="https://github.com/user-attachments/assets/e5e0ea0e-625a-42c6-b53c-4ee855d8f233" />
