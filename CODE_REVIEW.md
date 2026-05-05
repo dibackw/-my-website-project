@@ -1,4 +1,4 @@
-# CODE REVIEW
+# CODE REVIEW (День 7)
 
 ## Что проверено
 - Проверены PHPDoc-комментарии перед функциями
@@ -15,3 +15,5 @@
 
 ## Что исправлено
 - Замечаний нет
+
+<img width="1909" height="917" alt="изображение" src="https://github.com/user-attachments/assets/e5e0ea0e-625a-42c6-b53c-4ee855d8f233" />
